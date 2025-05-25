@@ -17,7 +17,7 @@ It uses a **tiny SQLite database**, Python libraries (`sqlite3`, `pandas`, `matp
 * SQLite (via `sqlite3`, built-in)
 * Pandas
 * Matplotlib
-* Colab Notebook
+* Jupyter Notebook
 ---
 
 ## 📂 Project Structure
